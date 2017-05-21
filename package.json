@@ -54,7 +54,8 @@
   },
   "dependencies": {
     "extend": "^3.0.0",
-    "immutable": "*"
+    "immutable": "*",
+    "traverse": "^0.6.6"
   },
   "description": "Code highlighting for DraftJS",
   "devDependencies": {
@@ -70,8 +71,7 @@
     "parallelshell": "2.0.0",
     "react": "^15.1.0",
     "react-dom": "^15.1.0",
-    "watch": "^0.18.0",
-    "traverse": "^0.6.6"
+    "watch": "^0.18.0"
   },
   "directories": {},
   "dist": {
